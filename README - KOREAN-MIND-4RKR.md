@@ -1,4 +1,4 @@
-POLYGLOT MIND & LANGUAGE INTERACTIONS -  MIND 
+POLYGLOT MIND & LANGUAGE INTERACTIONS - KOREAN MIND 
 ----------------------------------------------------
 
 A new language project has come on Github ! 🍾🍾🍾🍾🍾🍾 
@@ -63,4 +63,3 @@ Update time : 28-02-2023
 Tags : #ReadMe
 Visibility on Graph View : #Visibilité/On_Obsidian_Graph/Mode_OFF
 ***
-
